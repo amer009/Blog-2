@@ -1,0 +1,36 @@
+/* Custom styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e4d195be; /* Blanco humo */
+    color: #2F2F2F; /* Gris oscuro */
+  }
+  
+  /* Hero Section */
+  .hero h1 {
+    font-size: 3em;
+    color: #2F2F2F; /* Gris oscuro */
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 1.2em;
+    color: #B8B8B8; /* Gris claro */
+    margin-bottom: 30px;
+  }
+  
+  .btn-primary {
+    background-color: #1C3A5F; /* Azul profundo */
+    border-color: #1C3A5F;
+  }
+  
+  .btn-primary:hover {
+    background-color: #556B2F; /* Verde oliva apagado */
+    border-color: #556B2F;
+  }
+  
+  .bg-light {
+    background-color: #fae7a9 !important; /* Beige suave */
+  }
+
+  
+   
